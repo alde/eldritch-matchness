@@ -1,0 +1,36 @@
+# OCaml build artifacts
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.cmxa
+*.cma
+*.cmt
+*.cmti
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.byte
+*.opt
+*.annot
+*.depend
+*.dune-deps
+*.merlin
+*.output
+
+# Dune-specific files
+.merlin
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+# Vim/Emacs temporary files
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+

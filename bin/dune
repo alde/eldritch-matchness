@@ -1,0 +1,4 @@
+(executable
+ (public_name eldritch_matchness)
+ (name main)
+ (libraries eldritch_matchness_lib))

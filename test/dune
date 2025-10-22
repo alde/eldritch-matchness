@@ -1,0 +1,6 @@
+(test
+ (name test_eldritch_matchness))
+
+(test
+ (name test_dice)
+ (libraries eldritch_matchness_lib alcotest))
