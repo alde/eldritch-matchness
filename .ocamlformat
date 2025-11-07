@@ -1,4 +1,5 @@
-profile = default
+version = 0.27.0
+profile = janestreet
 break-cases = fit-or-vertical
 break-infix = fit-or-vertical
 break-sequences = true
